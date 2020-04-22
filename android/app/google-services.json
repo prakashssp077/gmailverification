@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "30810032714",
+    "firebase_url": "https://verification-f11d6.firebaseio.com",
+    "project_id": "verification-f11d6",
+    "storage_bucket": "verification-f11d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30810032714:android:d2118f937ec09d828ff4b3",
+        "android_client_info": {
+          "package_name": "com.example.gmailverification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30810032714-l98rufhkpjr9j0ho3s3jg95o7sau0mfl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_z00jlFdF99KT3til0furQGVBIBws6bM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30810032714-l98rufhkpjr9j0ho3s3jg95o7sau0mfl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
